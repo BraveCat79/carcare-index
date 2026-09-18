@@ -5,9 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (48편)
+## 글 목록 (49편)
 
 - [운전면허 적성검사 병원 조회 전에 확인할 기간과 면허 종류](https://m.blog.naver.com/zova2/224414554594) · 2026-09-17
+- [이륜차 검사 조회 방법, 필증 없을 때 재발급까지 한 번에](https://m.blog.naver.com/zova2/224414682153) · 2026-09-17
 - [AGM80 배터리, 내 차에 맞는지 라벨 한 줄로 갈립니다](https://m.blog.naver.com/zova2/224415031350) · 2026-09-17
 - [한문철블랙박스 살 만한가, 2026년 9월 한블-U2 기준](https://m.blog.naver.com/zova2/224413156135) · 2026-09-16
 - [하이패스 단말기 등록방법, 중고차에 달려 있던 단말기라면](https://m.blog.naver.com/zova2/224413196859) · 2026-09-16
