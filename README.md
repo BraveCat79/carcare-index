@@ -5,9 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (54편)
+## 글 목록 (57편)
 
+- [테슬라 YL 보조금과 모델 Y 차이, 6인승 구조부터](https://m.blog.naver.com/zova2/224416722161) · 2026-09-19
 - [3W에코라이너 TPE 카매트, 패브릭 매트와 갈리는 세 가지](https://m.blog.naver.com/zova2/224415522347) · 2026-09-18
+- [울산 자동차 검사소 예약 순서와 만료일 전 90일 기준 정리](https://m.blog.naver.com/zova2/224415553596) · 2026-09-18
+- [자동차 등록원부 인터넷 발급, 정부24와 자동차365 순서 정리](https://m.blog.naver.com/zova2/224415564740) · 2026-09-18
 - [운전면허 적성검사 병원 조회 전에 확인할 기간과 면허 종류](https://m.blog.naver.com/zova2/224414554594) · 2026-09-17
 - [이륜차 검사 조회 방법, 필증 없을 때 재발급까지 한 번에](https://m.blog.naver.com/zova2/224414682153) · 2026-09-17
 - [셀토스 와이퍼 사이즈, 앞은 600과 450 뒷유리는 전용품](https://m.blog.naver.com/zova2/224414839768) · 2026-09-17
