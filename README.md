@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (60편)
+## 글 목록 (62편)
 
+- [알피쿨K25 25리터, 어떤 차에 맞고 어떤 차에 안 맞나](https://m.blog.naver.com/zova2/224416621446) · 2026-09-19
+- [레이 배터리 교체 비용과 60Ah 업그레이드 트레이 문제](https://m.blog.naver.com/zova2/224416678067) · 2026-09-19
 - [테슬라 YL 보조금과 모델 Y 차이, 6인승 구조부터](https://m.blog.naver.com/zova2/224416722161) · 2026-09-19
 - [3W에코라이너 TPE 카매트, 패브릭 매트와 갈리는 세 가지](https://m.blog.naver.com/zova2/224415522347) · 2026-09-18
 - [울산 자동차 검사소 예약 순서와 만료일 전 90일 기준 정리](https://m.blog.naver.com/zova2/224415553596) · 2026-09-18
