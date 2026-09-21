@@ -5,11 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (62편)
+## 글 목록 (64편)
 
 - [알피쿨K25 25리터, 어떤 차에 맞고 어떤 차에 안 맞나](https://m.blog.naver.com/zova2/224416621446) · 2026-09-19
 - [레이 배터리 교체 비용과 60Ah 업그레이드 트레이 문제](https://m.blog.naver.com/zova2/224416678067) · 2026-09-19
+- [그랜저 와이퍼 세우기, GN7이 손으로 안 올라가는 이유](https://m.blog.naver.com/zova2/224416682806) · 2026-09-19
 - [테슬라 YL 보조금과 모델 Y 차이, 6인승 구조부터](https://m.blog.naver.com/zova2/224416722161) · 2026-09-19
+- [다이소 워셔액 1.8L, 낱개와 6개입 중 뭐가 맞나](https://m.blog.naver.com/zova2/224416723343) · 2026-09-19
 - [3W에코라이너 TPE 카매트, 패브릭 매트와 갈리는 세 가지](https://m.blog.naver.com/zova2/224415522347) · 2026-09-18
 - [울산 자동차 검사소 예약 순서와 만료일 전 90일 기준 정리](https://m.blog.naver.com/zova2/224415553596) · 2026-09-18
 - [자동차 등록원부 인터넷 발급, 정부24와 자동차365 순서 정리](https://m.blog.naver.com/zova2/224415564740) · 2026-09-18
