@@ -5,8 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (64편)
+## 글 목록 (68편)
 
+- [차량용충전기 하스필드 사기 전 자동차 시거잭 12-24V 확인](https://m.blog.naver.com/zova2/224418193326) · 2026-09-21
+- [다이소 와이퍼 교체 순서, 매장 재고 확인이 먼저입니다](https://m.blog.naver.com/zova2/224418194427) · 2026-09-21
+- [요소수 경고등 4단계와 시동 꺼지기 전 대처 순서](https://m.blog.naver.com/zova2/224418195702) · 2026-09-21
+- [BMW 워셔액 1.8L, 탱크가 안 차는 이유](https://m.blog.naver.com/zova2/224417975090) · 2026-09-20
 - [알피쿨K25 25리터, 어떤 차에 맞고 어떤 차에 안 맞나](https://m.blog.naver.com/zova2/224416621446) · 2026-09-19
 - [레이 배터리 교체 비용과 60Ah 업그레이드 트레이 문제](https://m.blog.naver.com/zova2/224416678067) · 2026-09-19
 - [그랜저 와이퍼 세우기, GN7이 손으로 안 올라가는 이유](https://m.blog.naver.com/zova2/224416682806) · 2026-09-19
