@@ -5,8 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (84편)
+## 글 목록 (87편)
 
+- [GV70 트렁크매트, 페이스리프트 전후에서 갈립니다](https://m.blog.naver.com/zova2/224421937987) · 2026-09-24
+- [GV80 트렁크매트 순정과 풀커버, 결국 등받이에서 갈립니다](https://m.blog.naver.com/zova2/224421941050) · 2026-09-24
+- [AGM70 배터리, 스타트스톱 달린 차주라면 LN3 규격부터](https://m.blog.naver.com/zova2/224421944520) · 2026-09-24
 - [BMW 엔진오일 출장 교환, 530i 차주에게 맞는 경우](https://m.blog.naver.com/zova2/224420122559) · 2026-09-22
 - [4세대 카니발 와이퍼 교체 방법, 레버 2초로 세우는 서비스 모드](https://m.blog.naver.com/zova2/224420125576) · 2026-09-22
 - [요소수 넣는법, 주유소 주입기와 통 제품 순서 차이](https://m.blog.naver.com/zova2/224420145133) · 2026-09-22
