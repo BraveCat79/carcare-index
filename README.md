@@ -5,11 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (82편)
+## 글 목록 (84편)
 
 - [BMW 엔진오일 출장 교환, 530i 차주에게 맞는 경우](https://m.blog.naver.com/zova2/224420122559) · 2026-09-22
 - [4세대 카니발 와이퍼 교체 방법, 레버 2초로 세우는 서비스 모드](https://m.blog.naver.com/zova2/224420125576) · 2026-09-22
 - [요소수 넣는법, 주유소 주입기와 통 제품 순서 차이](https://m.blog.naver.com/zova2/224420145133) · 2026-09-22
+- [자동차 검사 유효기간 만료일 지났다면 31일 안과 밖으로 갈립니다](https://m.blog.naver.com/zova2/224420147071) · 2026-09-22
+- [코스트코 타이어 위치교환, 예약 없이 되는 조건](https://m.blog.naver.com/zova2/224420148789) · 2026-09-22
 - [교통 범칙금 납부 경로, 2026년 9월 기준 정리](https://m.blog.naver.com/zova2/224418147320) · 2026-09-21
 - [자동차 명의이전 가족 간 증여, 서류와 접수 순서](https://m.blog.naver.com/zova2/224418152807) · 2026-09-21
 - [차량용충전기 하스필드 사기 전 자동차 시거잭 12-24V 확인](https://m.blog.naver.com/zova2/224418193326) · 2026-09-21
