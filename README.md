@@ -5,9 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (95편)
+## 글 목록 (96편)
 
 - [카매트 추천, 카니발 KA4 차주라면 두 TPE 매트 비교](https://m.blog.naver.com/zova2/224423461834) · 2026-09-27
+- [GV70 와이퍼 교체, 앞은 MIST 뒤는 T자에서 갈립니다](https://m.blog.naver.com/zova2/224423599396) · 2026-09-27
 - [ADBLUE 요소수, SCR 디젤 차주라면 검사표부터 확인](https://m.blog.naver.com/zova2/224422813829) · 2026-09-26
 - [BMW 냉각수 보충 전에 색부터, G48과 HT-12 차이](https://m.blog.naver.com/zova2/224422587549) · 2026-09-25
 - [마제스티9 사기 전에 트레드웨어 560과 사이드월부터](https://m.blog.naver.com/zova2/224422590370) · 2026-09-25
