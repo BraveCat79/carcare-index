@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (96편)
+## 글 목록 (98편)
 
+- [에어건 추천 전에 볼 값 4가지, 무게·사용시간·출력·노즐](https://m.blog.naver.com/zova2/224424307842) · 2026-09-28
+- [차량용 냉장고 추천, 알피쿨 MK35와 휴대용 갈리는 곳](https://m.blog.naver.com/zova2/224424312810) · 2026-09-28
 - [카매트 추천, 카니발 KA4 차주라면 두 TPE 매트 비교](https://m.blog.naver.com/zova2/224423461834) · 2026-09-27
 - [GV70 와이퍼 교체, 앞은 MIST 뒤는 T자에서 갈립니다](https://m.blog.naver.com/zova2/224423599396) · 2026-09-27
 - [ADBLUE 요소수, SCR 디젤 차주라면 검사표부터 확인](https://m.blog.naver.com/zova2/224422813829) · 2026-09-26
