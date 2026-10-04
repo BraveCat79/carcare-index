@@ -5,11 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (118편)
+## 글 목록 (120편)
 
 - [쏘렌토 차박매트 고르기 전에 인승부터, 6인승은 가운데가 빈다](https://m.blog.naver.com/zova2/224429962214) · 2026-10-03
 - [폴드8 차량용 거치대, 접착형이라 대시보드부터 확인할 것](https://m.blog.naver.com/zova2/224429968158) · 2026-10-03
 - [뷰익 일렉트라 E7 국내 출시 11월, 사전예약 전에 볼 제원](https://m.blog.naver.com/zova2/224430179738) · 2026-10-03
+- [렉서스 NX350h 연비, 신형 페이스리프트를 기다린다면](https://m.blog.naver.com/zova2/224430184504) · 2026-10-03
+- [제네시스 GV90 가격표 전에 공개된 배터리·충전 숫자 3개](https://m.blog.naver.com/zova2/224430236961) · 2026-10-03
 - [GV90 출시일, 공개는 8월 19일인데 국내 가격은 아직](https://m.blog.naver.com/zova2/224429170256) · 2026-10-02
 - [올뉴k3 와이퍼 교체 때 앞유리 파손 막는 한 가지](https://m.blog.naver.com/zova2/224429172854) · 2026-10-02
 - [카링킷 호환 제품, 1년 무상 A/S 없이 사도 될까](https://m.blog.naver.com/zova2/224429175048) · 2026-10-02
