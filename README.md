@@ -5,9 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (124편)
+## 글 목록 (125편)
 
 - [BMW X3 전기차 견적 전에 볼 4단계와 트림 차이](https://m.blog.naver.com/zova2/224430685590) · 2026-10-04
+- [소낙스 워셔액 에탄올 2L, 혹한 지역 차주는 안 맞는 이유](https://m.blog.naver.com/zova2/224430746916) · 2026-10-04
 - [쏘렌토 차박매트 고르기 전에 인승부터, 6인승은 가운데가 빈다](https://m.blog.naver.com/zova2/224429962214) · 2026-10-03
 - [폴드8 차량용 거치대, 접착형이라 대시보드부터 확인할 것](https://m.blog.naver.com/zova2/224429968158) · 2026-10-03
 - [뷰익 일렉트라 E7 국내 출시 11월, 사전예약 전에 볼 제원](https://m.blog.naver.com/zova2/224430179738) · 2026-10-03
