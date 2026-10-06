@@ -5,11 +5,14 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (130편)
+## 글 목록 (133편)
 
+- [BMW 키링 케이스 A타입, 29g 풀커버가 맞는 차주](https://m.blog.naver.com/zova2/224432470799) · 2026-10-06
+- [2026 BMW X5 가격표, 블로그마다 숫자가 다른 이유](https://m.blog.naver.com/zova2/224432488187) · 2026-10-06
 - [쏘렌토 핸들커버 주문 전에 핸들 모양부터 확인](https://m.blog.naver.com/zova2/224431682470) · 2026-10-05
 - [임시운전자 특약 효력은 다음 날 0시, 당일 운전은 원데이로](https://m.blog.naver.com/zova2/224432138447) · 2026-10-05
 - [테슬라 SUV 모델Y L, 기존 모델Y보다 180mm 긴 6인승](https://m.blog.naver.com/zova2/224432141470) · 2026-10-05
+- [신생아 자동차 취득세 감면, 7인승과 5인승 차이](https://m.blog.naver.com/zova2/224432154360) · 2026-10-05
 - [BMW X3 전기차 견적 전에 볼 4단계와 트림 차이](https://m.blog.naver.com/zova2/224430685590) · 2026-10-04
 - [소낙스 워셔액 에탄올 2L, 혹한 지역 차주는 안 맞는 이유](https://m.blog.naver.com/zova2/224430746916) · 2026-10-04
 - [투싼 2027 사전예약 열렸나, 현대차 공식 발표 상황](https://m.blog.naver.com/zova2/224431262273) · 2026-10-04
