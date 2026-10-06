@@ -5,9 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (128편)
+## 글 목록 (130편)
 
 - [쏘렌토 핸들커버 주문 전에 핸들 모양부터 확인](https://m.blog.naver.com/zova2/224431682470) · 2026-10-05
+- [임시운전자 특약 효력은 다음 날 0시, 당일 운전은 원데이로](https://m.blog.naver.com/zova2/224432138447) · 2026-10-05
+- [테슬라 SUV 모델Y L, 기존 모델Y보다 180mm 긴 6인승](https://m.blog.naver.com/zova2/224432141470) · 2026-10-05
 - [BMW X3 전기차 견적 전에 볼 4단계와 트림 차이](https://m.blog.naver.com/zova2/224430685590) · 2026-10-04
 - [소낙스 워셔액 에탄올 2L, 혹한 지역 차주는 안 맞는 이유](https://m.blog.naver.com/zova2/224430746916) · 2026-10-04
 - [투싼 2027 사전예약 열렸나, 현대차 공식 발표 상황](https://m.blog.naver.com/zova2/224431262273) · 2026-10-04
