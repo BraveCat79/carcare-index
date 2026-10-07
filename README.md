@@ -5,10 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (133편)
+## 글 목록 (136편)
 
 - [BMW 키링 케이스 A타입, 29g 풀커버가 맞는 차주](https://m.blog.naver.com/zova2/224432470799) · 2026-10-06
+- [와이퍼 블레이드 떨림·소음 고민이라면 실리콘 사각날부터](https://m.blog.naver.com/zova2/224432484031) · 2026-10-06
 - [2026 BMW X5 가격표, 블로그마다 숫자가 다른 이유](https://m.blog.naver.com/zova2/224432488187) · 2026-10-06
+- [PV5 주행거리 275~377km, 모델마다 갈리는 숫자](https://m.blog.naver.com/zova2/224432855744) · 2026-10-06
+- [벤딕트 주차번호판, 번호 노출 없이 연락받는 3가지 방식](https://m.blog.naver.com/zova2/224433274536) · 2026-10-06
 - [쏘렌토 핸들커버 주문 전에 핸들 모양부터 확인](https://m.blog.naver.com/zova2/224431682470) · 2026-10-05
 - [임시운전자 특약 효력은 다음 날 0시, 당일 운전은 원데이로](https://m.blog.naver.com/zova2/224432138447) · 2026-10-05
 - [테슬라 SUV 모델Y L, 기존 모델Y보다 180mm 긴 6인승](https://m.blog.naver.com/zova2/224432141470) · 2026-10-05
