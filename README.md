@@ -5,13 +5,14 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (141편)
+## 글 목록 (142편)
 
 - [테슬라 차박매트 정품 자충형과 펌프 내장 에어형의 차이](https://m.blog.naver.com/zova2/224433600991) · 2026-10-07
 - [포르쉐 타이칸 4S·GTS·터보, 출력과 제로백을 숫자로](https://m.blog.naver.com/zova2/224433684554) · 2026-10-07
 - [K5 3세대 연식 구분, 전기형과 더 뉴 K5 차이](https://m.blog.naver.com/zova2/224433701397) · 2026-10-07
 - [아이오닉9 가격 견적 낼 차주라면 HTRAC Ⅰ·Ⅱ 차이 확인](https://m.blog.naver.com/zova2/224433712381) · 2026-10-07
 - [기아차 종류, 하이브리드는 어느 칸에서 찾아야 하나](https://m.blog.naver.com/zova2/224434064597) · 2026-10-07
+- [테슬라 선쉐이드 음성인식형, 주니퍼 야외주차 차주에게 맞나](https://m.blog.naver.com/zova2/224434411780) · 2026-10-07
 - [BMW 키링 케이스 A타입, 29g 풀커버가 맞는 차주](https://m.blog.naver.com/zova2/224432470799) · 2026-10-06
 - [와이퍼 블레이드 떨림·소음 고민이라면 실리콘 사각날부터](https://m.blog.naver.com/zova2/224432484031) · 2026-10-06
 - [2026 BMW X5 가격표, 블로그마다 숫자가 다른 이유](https://m.blog.naver.com/zova2/224432488187) · 2026-10-06
