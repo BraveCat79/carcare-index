@@ -5,12 +5,17 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (147편)
+## 글 목록 (152편)
 
+- [스포티지 풀체인지 예상도만 믿으면 견적 비교가 틀어지는 이유](https://m.blog.naver.com/zova2/224435815450) · 2026-10-09
 - [G80 블랙 빌트인 캠 기본, 일반 G80 패키지와 차이](https://m.blog.naver.com/zova2/224434661935) · 2026-10-08
 - [아이오닉5 롱레인지 주행거리, 구성 따라 74km 차이](https://m.blog.naver.com/zova2/224434664897) · 2026-10-08
 - [EV9 가격, 스탠다드와 롱레인지 주행거리 차이 127km](https://m.blog.naver.com/zova2/224434668472) · 2026-10-08
 - [자동차 와이퍼 사이즈, 운전석 650mm 차주라면 조수석 길이부터](https://m.blog.naver.com/zova2/224435544729) · 2026-10-08
+- [주파집 거치대 CWC08로 올려야 하나, 폰 출력부터 확인](https://m.blog.naver.com/zova2/224435547923) · 2026-10-08
+- [EV3 롱레인지 4WD 고민이라면 450km·3등급부터](https://m.blog.naver.com/zova2/224435550626) · 2026-10-08
+- [EV6 GT 차이, 일반 EV6와 갈리는 전용 사양 4가지](https://m.blog.naver.com/zova2/224435553332) · 2026-10-08
+- [카니발 7인승 하이브리드 복합 13.5km/L, 가솔린과 연비 차이](https://m.blog.naver.com/zova2/224435556289) · 2026-10-08
 - [테슬라 차박매트 정품 자충형과 펌프 내장 에어형의 차이](https://m.blog.naver.com/zova2/224433600991) · 2026-10-07
 - [포르쉐 타이칸 4S·GTS·터보, 출력과 제로백을 숫자로](https://m.blog.naver.com/zova2/224433684554) · 2026-10-07
 - [K5 3세대 연식 구분, 전기형과 더 뉴 K5 차이](https://m.blog.naver.com/zova2/224433701397) · 2026-10-07
