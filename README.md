@@ -5,9 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (152편)
+## 글 목록 (153편)
 
 - [스포티지 풀체인지 예상도만 믿으면 견적 비교가 틀어지는 이유](https://m.blog.naver.com/zova2/224435815450) · 2026-10-09
+- [불스원 유막제거제 이지그립, 크리스탈 세트와 갈리는 3가지](https://m.blog.naver.com/zova2/224436444824) · 2026-10-09
 - [G80 블랙 빌트인 캠 기본, 일반 G80 패키지와 차이](https://m.blog.naver.com/zova2/224434661935) · 2026-10-08
 - [아이오닉5 롱레인지 주행거리, 구성 따라 74km 차이](https://m.blog.naver.com/zova2/224434664897) · 2026-10-08
 - [EV9 가격, 스탠다드와 롱레인지 주행거리 차이 127km](https://m.blog.naver.com/zova2/224434668472) · 2026-10-08
