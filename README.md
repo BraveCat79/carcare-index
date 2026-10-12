@@ -5,10 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (163편)
+## 글 목록 (165편)
 
 - [EV3 주행거리 4WD는 450km, 2WD 17인치와 51km 차이](https://m.blog.naver.com/zova2/224437537986) · 2026-10-11
 - [2026 볼보 XC90 포토만 보고 고르면 놓치는 트림 차이](https://m.blog.naver.com/zova2/224437710701) · 2026-10-11
+- [테슬라 충전기 설치 전에 차단기부터, 40A면 7kW 출력](https://m.blog.naver.com/zova2/224437735884) · 2026-10-11
+- [MD홍 시거잭 주행충전기, 살지 말지 갈리는 스펙 3가지](https://m.blog.naver.com/zova2/224438169224) · 2026-10-11
 - [K5 DL3 신형 견적 전, 옵션 묶음 모르면 견적 다시 짜야](https://m.blog.naver.com/zova2/224436819589) · 2026-10-10
 - [르노코리아 7년 14만km 보증, 중고로 팔아도 승계될까](https://m.blog.naver.com/zova2/224436822767) · 2026-10-10
 - [볼보 리콜 대상 조회, 텐셔너 놓치면 재시동이 막힐 수도](https://m.blog.naver.com/zova2/224436866198) · 2026-10-10
