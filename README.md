@@ -5,13 +5,18 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (177편)
+## 글 목록 (182편)
 
+- [지게차 자격증 순서, 3톤 이상이면 필기 합격이 먼저입니다](https://m.blog.naver.com/zova2/224440881705) · 2026-10-14
+- [경차 유류세 환급카드 잘못 쓰면 환수에 가산세 40%](https://m.blog.naver.com/zova2/224440923613) · 2026-10-14
+- [인천 전기차 보조금 추경, 선정 뒤 영업일 10일 넘기면 취소](https://m.blog.naver.com/zova2/224441172980) · 2026-10-14
 - [더뉴셀토스 에어컨필터 P07, 호환 차종 두 가지만 확인](https://m.blog.naver.com/zova2/224439614915) · 2026-10-13
 - [아반떼 신형 깡통 계기판 옵션, 견적에 넣을 항목 4가지](https://m.blog.naver.com/zova2/224439640690) · 2026-10-13
 - [사이버트럭 색상보다 먼저 볼 숫자, 전폭 2,200mm](https://m.blog.naver.com/zova2/224439809000) · 2026-10-13
 - [벤츠 CLA 전기차 200과 250+, 어느 쪽이 맞을까](https://m.blog.naver.com/zova2/224439818702) · 2026-10-13
 - [카처 스팀청소기 SC2와 SC4 Deluxe, 제조국과 리뷰 수 차이](https://m.blog.naver.com/zova2/224440550799) · 2026-10-13
+- [스타리아 캠핑카 어닝, 피아마 F45s 263cm가 맞는 차주](https://m.blog.naver.com/zova2/224440554135) · 2026-10-13
+- [소나타 디엣지 블랙 N Line, 2.5 터보가 들어갈까](https://m.blog.naver.com/zova2/224440557738) · 2026-10-13
 - [페라리 프로산게 딜러 문의 전에 정할 옵션 3가지](https://m.blog.naver.com/zova2/224438522017) · 2026-10-12
 - [G90 블랙 견적 전에 이것부터, 선루프는 기본이 아닙니다](https://m.blog.naver.com/zova2/224438542105) · 2026-10-12
 - [GSP배터리 인산철 충전기, 10A와 20A 누구에게 맞나](https://m.blog.naver.com/zova2/224439335362) · 2026-10-12
