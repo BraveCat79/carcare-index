@@ -5,10 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (189편)
+## 글 목록 (192편)
 
 - [운전면허 벌점 소멸과 감경교육, 이수증 제출까지 6단계](https://m.blog.naver.com/zova2/224442028500) · 2026-10-15
 - [무선카플레이 오토캐스트 Play2 울트라, 누구에게 맞나](https://m.blog.naver.com/zova2/224442049159) · 2026-10-15
+- [싼타페 풀체인지 출시 일정, 6세대가 다음? 5세대 부분변경이 먼저](https://m.blog.naver.com/zova2/224442056692) · 2026-10-15
+- [TPE카매트 레이 전용, 불스원 EZ클린과 갈리는 3가지](https://m.blog.naver.com/zova2/224442899489) · 2026-10-15
+- [아파트 전기차 충전요금 부과방법, 내는 곳 세 군데 차이](https://m.blog.naver.com/zova2/224442902751) · 2026-10-15
 - [지게차 자격증 순서, 3톤 이상이면 필기 합격이 먼저입니다](https://m.blog.naver.com/zova2/224440881705) · 2026-10-14
 - [경차 유류세 환급카드 잘못 쓰면 환수에 가산세 40%](https://m.blog.naver.com/zova2/224440923613) · 2026-10-14
 - [전기차 번호판 색깔 임의로 바꾸면 과태료, 대상 차 구분법](https://m.blog.naver.com/zova2/224440924775) · 2026-10-14
