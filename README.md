@@ -5,9 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (203편)
+## 글 목록 (205편)
 
 - [테슬라 로드스터 공개, 2인승? 증강 옵션 Rocket은 1인승](https://m.blog.naver.com/zova2/224444540878) · 2026-10-17
+- [생각보다 길어진 석유 최고가격제, 11차도 휘발유 1784원 동결](https://m.blog.naver.com/zova2/224444873236) · 2026-10-17
+- [대형가습기 사용면적 5배 벌어진다, 거실 가습기 넓이로 고르는 법](https://m.blog.naver.com/zova2/224444875003) · 2026-10-17
 - [소형건설기계 조종교육 이수증, 3톤 미만 지게차라면 1종 면허 필수](https://m.blog.naver.com/zova2/224443189776) · 2026-10-16
 - [2027 투싼 가격 공개일 전에 4세대 가격표부터](https://m.blog.naver.com/zova2/224443235989) · 2026-10-16
 - [차량용 무시동히터, 경유 화물차 차주라면 고르는 순서](https://m.blog.naver.com/zova2/224443242049) · 2026-10-16
