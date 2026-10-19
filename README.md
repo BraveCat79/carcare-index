@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (211편)
+## 글 목록 (212편)
 
+- [100%에서 90%로, 하이브리드가 2035년 뒤에도 남을 수 있다](https://m.blog.naver.com/zova2/224446054780) · 2026-10-19
 - [테슬라 로드스터 공개, 2인승? 증강 옵션 Rocket은 1인승](https://m.blog.naver.com/zova2/224444540878) · 2026-10-17
 - [생각보다 길어진 석유 최고가격제, 11차도 휘발유 1784원 동결](https://m.blog.naver.com/zova2/224444873236) · 2026-10-17
 - [대형가습기 사용면적 5배 벌어진다, 거실 가습기 넓이로 고르는 법](https://m.blog.naver.com/zova2/224444875003) · 2026-10-17
