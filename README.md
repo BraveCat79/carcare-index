@@ -5,7 +5,7 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (218편)
+## 글 목록 (219편)
 
 - [카니발 아니어도 된다, 4,700mm로 커진 투싼이 패밀리 카 후보로](https://m.blog.naver.com/zova2/224446017275) · 2026-10-19
 - [2035 내연기관 완화의 대가, 유럽산 부품 70% 조건](https://m.blog.naver.com/zova2/224446054780) · 2026-10-19
@@ -14,6 +14,7 @@
 - [연비 24km/L 국산 하이브리드 SUV? 공인 1위는 20.8km/L](https://m.blog.naver.com/zova2/224446122858) · 2026-10-19
 - [PV5 카고 롱레인지 97km 더 가는 대신 짐 100kg 내준다](https://m.blog.naver.com/zova2/224446123950) · 2026-10-19
 - [만료 뒤 31일 지나면 과태료, 포항 자동차 검사소 날짜부터 잡기](https://m.blog.naver.com/zova2/224446340065) · 2026-10-19
+- [기내용 목베개 3종, 목에 맞추는 '이것'이 셋 다 다르다](https://m.blog.naver.com/zova2/224446863901) · 2026-10-19
 - [테슬라 로드스터 공개, 2인승? 증강 옵션 Rocket은 1인승](https://m.blog.naver.com/zova2/224444540878) · 2026-10-17
 - [생각보다 길어진 석유 최고가격제, 11차도 휘발유 1784원 동결](https://m.blog.naver.com/zova2/224444873236) · 2026-10-17
 - [대형가습기 사용면적 5배 벌어진다, 거실 가습기 넓이로 고르는 법](https://m.blog.naver.com/zova2/224444875003) · 2026-10-17
