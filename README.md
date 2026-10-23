@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (239편)
+## 글 목록 (241편)
 
+- [엘프 보증 아직 2년? 신형은 3년·30만km로 늘었다](https://m.blog.naver.com/zova2/224450714583) · 2026-10-23
+- [관세 8%로는 못 막는다, 국산 전기차 생산세액공제가 나온 이유](https://m.blog.naver.com/zova2/224450834415) · 2026-10-23
 - [과속 단속은 이파인, 주정차 과태료는 위택스에서 따로 본다](https://m.blog.naver.com/zova2/224449682981) · 2026-10-22
 - [자동차 검사기간조회, 만료일 90일 전부터 31일 뒤까지 열린다](https://m.blog.naver.com/zova2/224450159308) · 2026-10-22
 - [꼼지락차박매트 기아용, 매트만 깔면 2열 경사는 그대로 남는다](https://m.blog.naver.com/zova2/224450300250) · 2026-10-22
