@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (246편)
+## 글 목록 (247편)
 
+- [진도에선 368만 원? 돌핀 국고보조금은 7월에 끊겼다](https://m.blog.naver.com/zova2/224451870198) · 2026-10-24
 - [테슬라 방향제 걸이형 짱구, 평점 4.87인데 크기만 걸린다](https://m.blog.naver.com/zova2/224450709926) · 2026-10-23
 - [엘프 보증 아직 2년? 신형은 3년·30만km로 늘었다](https://m.blog.naver.com/zova2/224450714583) · 2026-10-23
 - [필름식 2장 30,000원, 자동차 번호판 교체비용 우리 지역은 얼마일까](https://m.blog.naver.com/zova2/224450716093) · 2026-10-23
