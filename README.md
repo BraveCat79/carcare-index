@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (257편)
+## 글 목록 (258편)
 
+- [전기차 109만5218대 시대, 동네 카센터에선 왜 못 고칠까](https://m.blog.naver.com/zova2/224453621032) · 2026-10-26
 - [실리콘와이퍼인 줄 알았는데 상품명에 실리콘이 없는 레인OK 메탈 그래핀](https://m.blog.naver.com/zova2/224452663622) · 2026-10-25
 - [9월 초보다 20% 뛴 브렌트유, 미국 중간선거가 기름값을 흔든다](https://m.blog.naver.com/zova2/224452670566) · 2026-10-25
 - [옥탄부스터 두 병, 연료 13L에 부으면 최대 사용량을 넘는다](https://m.blog.naver.com/zova2/224452671687) · 2026-10-25
