@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (263편)
+## 글 목록 (265편)
 
+- [쏘렌토 시작가 4천 넘을까? 확정 가격은 3,641만원](https://m.blog.naver.com/zova2/224454848678) · 2026-10-27
+- [카마루매트 쏘나타 DN8용, 앞뒤 매트만 있고 트렁크는 비어 있다](https://m.blog.naver.com/zova2/224454925936) · 2026-10-27
 - [모닝 와이퍼, 알고 보니 '올뉴모닝'이 두 세대에 붙어 있다](https://m.blog.naver.com/zova2/224453554522) · 2026-10-26
 - [지커 7X 보조금 전액 구간일까? 5300만원 아래는 프로뿐](https://m.blog.naver.com/zova2/224453561921) · 2026-10-26
 - [제네시스 X 스피디움 2022년 출시? 그해엔 외장·실내만 공개됐다](https://m.blog.naver.com/zova2/224453572982) · 2026-10-26
