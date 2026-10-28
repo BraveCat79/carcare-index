@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (270편)
+## 글 목록 (271편)
 
+- [신형 투싼 견적, 3,140만 원 시작가만 보고 넣지 마세요](https://m.blog.naver.com/zova2/224456168159) · 2026-10-28
 - [현대 넥쏘 가격 모던에 패키지 두 개 얹으면.. 익스클루시브 턱밑](https://m.blog.naver.com/zova2/224454760716) · 2026-10-27
 - [무향 고체탈취제 10개 묶음, 제조일 놓치면 마지막 통 기한이 빠듯](https://m.blog.naver.com/zova2/224454763893) · 2026-10-27
 - [쏘렌토 시작가 4천 넘을까? 확정 가격은 3,641만원](https://m.blog.naver.com/zova2/224454848678) · 2026-10-27
