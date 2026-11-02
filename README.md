@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (304편)
+## 글 목록 (306편)
 
+- [카쳐 청소기 WD5 S V는 스팀 기대하고 사면 안 됩니다](https://m.blog.naver.com/zova2/224461350271) · 2026-11-01
+- [아우디 A6 한정판 1억 넘을까? 판매가는 9,490만 원](https://m.blog.naver.com/zova2/224461564371) · 2026-11-01
 - [스포티지 에어컨필터 불스원 09번, 같은 QL인데 연식 하나로 빠진다](https://m.blog.naver.com/zova2/224459616803) · 2026-10-31
 - [카니발 대신 11인승 하이브리드? 스타리아는 3,870만 원부터](https://m.blog.naver.com/zova2/224459620741) · 2026-10-31
 - [국내 전기차 주행거리 1위 아이오닉6? 실제론 739km 캐딜락](https://m.blog.naver.com/zova2/224459624858) · 2026-10-31
