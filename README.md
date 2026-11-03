@@ -5,12 +5,16 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (313편)
+## 글 목록 (317편)
 
 - [10월 기준 벤츠 E250 검사 부적합, 리콜까지 남은 한 단계](https://m.blog.naver.com/zova2/224461665985) · 2026-11-02
 - [쏘렌토 무이자 할부 60개월? 무이자는 싼타페·팰리세이드만](https://m.blog.naver.com/zova2/224462435218) · 2026-11-02
 - [앤커 보조배터리 프라임 A110A의 300W는 세 포트를 합친 숫자](https://m.blog.naver.com/zova2/224462582992) · 2026-11-02
 - [테슬라 핸드폰 거치대 주파집 히든형으로 맥세이프 충전이 될까](https://m.blog.naver.com/zova2/224462586655) · 2026-11-02
+- [캐스퍼 와이퍼 사이즈, 600mm만 외워서 사면 안 되는 이유](https://m.blog.naver.com/zova2/224462590027) · 2026-11-02
+- [EV3 실구매가 4천 넘을까? 롱레인지 국고 빼면 3,860만 원](https://m.blog.naver.com/zova2/224462597157) · 2026-11-02
+- [BYD 씨라이언 6 DM-i 연비, 충전 못 하면 15.2km/L가 전부](https://m.blog.naver.com/zova2/224462601082) · 2026-11-02
+- ["흰색 아니면 검정?" 지커 7x 색상은 블랙에디션까지 7가지](https://m.blog.naver.com/zova2/224462604358) · 2026-11-02
 - [카쳐 청소기 WD5 S V는 스팀 기대하고 사면 안 됩니다](https://m.blog.naver.com/zova2/224461350271) · 2026-11-01
 - [전기차 타이어 교체 주기는 왜 내연기관보다 1~2년 빠를까](https://m.blog.naver.com/zova2/224461358158) · 2026-11-01
 - ["616km 간다며?" 벤츠 GLC 일렉트릭 국내 인증은 448km](https://m.blog.naver.com/zova2/224461361716) · 2026-11-01
