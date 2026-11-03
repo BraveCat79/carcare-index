@@ -5,10 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (311편)
+## 글 목록 (313편)
 
 - [10월 기준 벤츠 E250 검사 부적합, 리콜까지 남은 한 단계](https://m.blog.naver.com/zova2/224461665985) · 2026-11-02
 - [쏘렌토 무이자 할부 60개월? 무이자는 싼타페·팰리세이드만](https://m.blog.naver.com/zova2/224462435218) · 2026-11-02
+- [앤커 보조배터리 프라임 A110A의 300W는 세 포트를 합친 숫자](https://m.blog.naver.com/zova2/224462582992) · 2026-11-02
+- [테슬라 핸드폰 거치대 주파집 히든형으로 맥세이프 충전이 될까](https://m.blog.naver.com/zova2/224462586655) · 2026-11-02
 - [카쳐 청소기 WD5 S V는 스팀 기대하고 사면 안 됩니다](https://m.blog.naver.com/zova2/224461350271) · 2026-11-01
 - [전기차 타이어 교체 주기는 왜 내연기관보다 1~2년 빠를까](https://m.blog.naver.com/zova2/224461358158) · 2026-11-01
 - ["616km 간다며?" 벤츠 GLC 일렉트릭 국내 인증은 448km](https://m.blog.naver.com/zova2/224461361716) · 2026-11-01
