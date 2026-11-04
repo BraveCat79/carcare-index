@@ -5,9 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (318편)
+## 글 목록 (321편)
 
 - [차량용 방향제 순위 보고 명품 디퓨저 베이직 사면 향이 없다](https://m.blog.naver.com/zova2/224463813800) · 2026-11-03
+- [그랜저 하이브리드 6천만 원 넘을까? 블랙 잉크도 5,989만 원](https://m.blog.naver.com/zova2/224463818421) · 2026-11-03
+- [현대차·기아 ICCU 리콜, 차대번호로 대상 확인하는 3단계](https://m.blog.naver.com/zova2/224463822307) · 2026-11-03
+- ["17인치 괜히 골랐나" 캐스퍼 일렉트릭 주행거리 20km 손해](https://m.blog.naver.com/zova2/224463826333) · 2026-11-03
 - [10월 기준 벤츠 E250 검사 부적합, 리콜까지 남은 한 단계](https://m.blog.naver.com/zova2/224461665985) · 2026-11-02
 - [쏘렌토 무이자 할부 60개월? 무이자는 싼타페·팰리세이드만](https://m.blog.naver.com/zova2/224462435218) · 2026-11-02
 - [앤커 보조배터리 프라임 A110A의 300W는 세 포트를 합친 숫자](https://m.blog.naver.com/zova2/224462582992) · 2026-11-02
