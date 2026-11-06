@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (326편)
+## 글 목록 (327편)
 
+- [알칸타라 핸들커버, 이름 속 '이탈리아'는 줄무늬 색이었다](https://m.blog.naver.com/zova2/224466310903) · 2026-11-05
 - [GV90 가격 벌써 나왔다? 확정된 건 보조금 선 8,500만원](https://m.blog.naver.com/zova2/224465032176) · 2026-11-04
 - ["4천은 넘겠지" 2027 스포티지 하이브리드 시작가 3,436만 원](https://m.blog.naver.com/zova2/224465041117) · 2026-11-04
 - [2026 니로 하이브리드 트렌디 풀옵션, 프레스티지보다 1만 원 비싸다](https://m.blog.naver.com/zova2/224465049560) · 2026-11-04
