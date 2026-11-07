@@ -5,10 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (330편)
+## 글 목록 (333편)
 
+- [BMW·벤츠 10월 순위만 보고 판단하지 마세요.. 누적은 딴판](https://m.blog.naver.com/zova2/224467995823) · 2026-11-07
 - [신형 BMW 7시리즈 2억부터? 사전예약 시작가는 1억6000만원](https://m.blog.naver.com/zova2/224466860668) · 2026-11-06
 - [KGM 티볼리는 할인 목록에 없는데.. 오일 교환 3회는 받는다](https://m.blog.naver.com/zova2/224466867547) · 2026-11-06
+- [쏘렌토 하이브리드 엔진오일 0W20 4.8리터, 5리터 세트면 0.2리터 남아요](https://m.blog.naver.com/zova2/224467143184) · 2026-11-06
+- [르노 트윙고 E-Tech 가격 2만 유로 미만, 263km에 급속은 선택](https://m.blog.naver.com/zova2/224467545531) · 2026-11-06
 - [알칸타라 핸들커버, 이름 속 '이탈리아'는 줄무늬 색이었다](https://m.blog.naver.com/zova2/224466310903) · 2026-11-05
 - [아우디 Q9 PHEV일까? 독일형은 299PS 마일드 하이브리드 디젤](https://m.blog.naver.com/zova2/224466318769) · 2026-11-05
 - [GV90 가격 벌써 나왔다? 확정된 건 보조금 선 8,500만원](https://m.blog.naver.com/zova2/224465032176) · 2026-11-04
