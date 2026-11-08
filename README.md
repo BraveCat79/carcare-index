@@ -5,9 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (339편)
+## 글 목록 (343편)
 
 - [BYD 돌핀 3천만 원 넘죠? 기본형은 2,450만 원](https://m.blog.naver.com/zova2/224468730740) · 2026-11-08
+- [기아 EV2 영국 2만 4245파운드? 정가는 2만 7995파운드](https://m.blog.naver.com/zova2/224468770705) · 2026-11-08
+- [렉서스 LBX 연비 18km/L? 유럽 자료로는 19.2km](https://m.blog.naver.com/zova2/224468777520) · 2026-11-08
+- [차량용 온열방석 같은 모델도 12V와 24V가 따로 팔린다](https://m.blog.naver.com/zova2/224469269367) · 2026-11-08
+- [K5 엔진오일 세트 순정 4L+1L와 킥스 5L 겹치는 연식은 없다](https://m.blog.naver.com/zova2/224469283638) · 2026-11-08
 - [BMW·벤츠 10월 순위만 보고 판단하지 마세요.. 누적은 딴판](https://m.blog.naver.com/zova2/224467995823) · 2026-11-07
 - ["아기 이름 등록증은 없었다" 영유아 자동차 등록증 진짜 출력 3단계](https://m.blog.naver.com/zova2/224468407291) · 2026-11-07
 - [볼보 신차 가격, EX30 3,991만 원부터 12개 차종 시작가](https://m.blog.naver.com/zova2/224468491099) · 2026-11-07
