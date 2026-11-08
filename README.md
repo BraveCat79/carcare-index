@@ -5,10 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (337편)
+## 글 목록 (339편)
 
+- [BYD 돌핀 3천만 원 넘죠? 기본형은 2,450만 원](https://m.blog.naver.com/zova2/224468730740) · 2026-11-08
 - [BMW·벤츠 10월 순위만 보고 판단하지 마세요.. 누적은 딴판](https://m.blog.naver.com/zova2/224467995823) · 2026-11-07
 - ["아기 이름 등록증은 없었다" 영유아 자동차 등록증 진짜 출력 3단계](https://m.blog.naver.com/zova2/224468407291) · 2026-11-07
+- [볼보 신차 가격, EX30 3,991만 원부터 12개 차종 시작가](https://m.blog.naver.com/zova2/224468491099) · 2026-11-07
 - [신형 BMW 7시리즈 2억부터? 사전예약 시작가는 1억6000만원](https://m.blog.naver.com/zova2/224466860668) · 2026-11-06
 - [KGM 티볼리는 할인 목록에 없는데.. 오일 교환 3회는 받는다](https://m.blog.naver.com/zova2/224466867547) · 2026-11-06
 - [쏘렌토 하이브리드 엔진오일 0W20 4.8리터, 5리터 세트면 0.2리터 남아요](https://m.blog.naver.com/zova2/224467143184) · 2026-11-06
