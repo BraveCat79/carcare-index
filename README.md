@@ -5,10 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (345편)
+## 글 목록 (347편)
 
 - [볼보 XC60·XC90 사고기록장치에 '이것'이 두 개 있었다](https://m.blog.naver.com/zova2/224469676673) · 2026-11-09
 - [GV80 하이브리드 352마력 연비 12km/L.. 본전은 11년 뒤](https://m.blog.naver.com/zova2/224469741127) · 2026-11-09
+- [레인지로버 보그 찾지 마세요.. 지금 견적표 이름은 HSE](https://m.blog.naver.com/zova2/224469757445) · 2026-11-09
+- [K5 와이퍼 DL3 조수석은 400mm, 2세대보다 50mm 짧습니다](https://m.blog.naver.com/zova2/224469809335) · 2026-11-09
 - [BYD 돌핀 3천만 원 넘죠? 기본형은 2,450만 원](https://m.blog.naver.com/zova2/224468730740) · 2026-11-08
 - [기아 EV2 영국 2만 4245파운드? 정가는 2만 7995파운드](https://m.blog.naver.com/zova2/224468770705) · 2026-11-08
 - [렉서스 LBX 연비 18km/L? 유럽 자료로는 19.2km](https://m.blog.naver.com/zova2/224468777520) · 2026-11-08
