@@ -5,12 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (354편)
+## 글 목록 (355편)
 
 - [카이엔 일렉트릭 가격 1억 4,370만 원? 취득세는 빠진 값](https://m.blog.naver.com/zova2/224470970273) · 2026-11-10
 - [6,700만 원대? 폭스바겐 아틀라스 7인승 권장가는 6,904만 원](https://m.blog.naver.com/zova2/224470977903) · 2026-11-10
 - [테슬라 모델Y 롱레인지 400km 넘을까? 제원표는 505km](https://m.blog.naver.com/zova2/224471615233) · 2026-11-10
 - [렉서스 신형 ES 1억 가까울까? 최고 트림도 8,490만 원](https://m.blog.naver.com/zova2/224471632651) · 2026-11-10
+- [성에 방지 커버 M 사이즈는 SUV 앞유리에도 맞을까?](https://m.blog.naver.com/zova2/224472006439) · 2026-11-10
 - [볼보 XC60·XC90 사고기록장치에 '이것'이 두 개 있었다](https://m.blog.naver.com/zova2/224469676673) · 2026-11-09
 - [GV80 하이브리드 352마력 연비 12km/L.. 본전은 11년 뒤](https://m.blog.naver.com/zova2/224469741127) · 2026-11-09
 - [레인지로버 보그 찾지 마세요.. 지금 견적표 이름은 HSE](https://m.blog.naver.com/zova2/224469757445) · 2026-11-09
