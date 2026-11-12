@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (359편)
+## 글 목록 (361편)
 
+- [제네시스 G90 연비 9.3 나오는 조합은 '이것' 하나뿐](https://m.blog.naver.com/zova2/224473315185) · 2026-11-11
+- [BYD 국내 판매 다섯 차종 가격 2,450만 원부터 5,390만 원까지](https://m.blog.naver.com/zova2/224473320905) · 2026-11-11
 - [카이엔 일렉트릭 가격 1억 4,370만 원? 취득세는 빠진 값](https://m.blog.naver.com/zova2/224470970273) · 2026-11-10
 - [6,700만 원대? 폭스바겐 아틀라스 7인승 권장가는 6,904만 원](https://m.blog.naver.com/zova2/224470977903) · 2026-11-10
 - [테슬라 모델Y 롱레인지 400km 넘을까? 제원표는 505km](https://m.blog.naver.com/zova2/224471615233) · 2026-11-10
