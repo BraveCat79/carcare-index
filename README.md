@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (363편)
+## 글 목록 (364편)
 
+- [불스원 카매트 더뉴카니발 KA4 아웃도어 트림에도 깔릴까?](https://m.blog.naver.com/zova2/224474666244) · 2026-11-12
 - [제네시스 G90 연비 9.3 나오는 조합은 '이것' 하나뿐](https://m.blog.naver.com/zova2/224473315185) · 2026-11-11
 - [BYD 국내 판매 다섯 차종 가격 2,450만 원부터 5,390만 원까지](https://m.blog.naver.com/zova2/224473320905) · 2026-11-11
 - [아이오닉6 롱레인지 AWD 토크 605Nm.. 대신 29km 짧아진다](https://m.blog.naver.com/zova2/224473344836) · 2026-11-11
