@@ -5,9 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (364편)
+## 글 목록 (368편)
 
 - [불스원 카매트 더뉴카니발 KA4 아웃도어 트림에도 깔릴까?](https://m.blog.naver.com/zova2/224474666244) · 2026-11-12
+- [K5 카매트 TPE 입체 매트는 순정 매트 위에 덧깔지 마세요](https://m.blog.naver.com/zova2/224474670678) · 2026-11-12
+- [모델Y 카매트 3W 에코라이너 세트는 트렁크까지 덮일까?](https://m.blog.naver.com/zova2/224474685119) · 2026-11-12
+- [QM6 와이퍼 사이즈 650·400인데 세트 표기는 650·450](https://m.blog.naver.com/zova2/224474704865) · 2026-11-12
+- [현대차 아반떼 336만원 올랐는데 첫날 계약은 역대 최대?](https://m.blog.naver.com/zova2/224474726592) · 2026-11-12
 - [제네시스 G90 연비 9.3 나오는 조합은 '이것' 하나뿐](https://m.blog.naver.com/zova2/224473315185) · 2026-11-11
 - [BYD 국내 판매 다섯 차종 가격 2,450만 원부터 5,390만 원까지](https://m.blog.naver.com/zova2/224473320905) · 2026-11-11
 - [아이오닉6 롱레인지 AWD 토크 605Nm.. 대신 29km 짧아진다](https://m.blog.naver.com/zova2/224473344836) · 2026-11-11
