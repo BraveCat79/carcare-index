@@ -5,10 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (370편)
+## 글 목록 (373편)
 
 - [2027 투싼 dct 그대로일까? 가솔린은 8단 자동으로 바뀌었다](https://m.blog.naver.com/zova2/224476027310) · 2026-11-13
 - ["9인승은 없네" 벤츠 V클래스 7인승 하나로 1억2400만원](https://m.blog.naver.com/zova2/224476033176) · 2026-11-13
+- ["8주 다 채우고 냈는데.." 교통사고 8주룰 진단서 마감은 7주였다](https://m.blog.naver.com/zova2/224476053745) · 2026-11-13
+- [2027 볼보 ES90 제원 706km가 국내 인증에선 520km로](https://m.blog.naver.com/zova2/224476066878) · 2026-11-13
+- [포터 풀체인지 출시일 2027년 초.. 보닛 내고도 도크 높이 맞춘 이유](https://m.blog.naver.com/zova2/224476073351) · 2026-11-13
 - [불스원 카매트 더뉴카니발 KA4 아웃도어 트림에도 깔릴까?](https://m.blog.naver.com/zova2/224474666244) · 2026-11-12
 - [K5 카매트 TPE 입체 매트는 순정 매트 위에 덧깔지 마세요](https://m.blog.naver.com/zova2/224474670678) · 2026-11-12
 - [모델Y 카매트 3W 에코라이너 세트는 트렁크까지 덮일까?](https://m.blog.naver.com/zova2/224474685119) · 2026-11-12
