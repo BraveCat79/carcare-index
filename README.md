@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (373편)
+## 글 목록 (374편)
 
+- [레이 카매트 1+2열 세트와 달리 레이 밴은 1열만 나온다](https://m.blog.naver.com/zova2/224477086592) · 2026-11-14
 - [2027 투싼 dct 그대로일까? 가솔린은 8단 자동으로 바뀌었다](https://m.blog.naver.com/zova2/224476027310) · 2026-11-13
 - ["9인승은 없네" 벤츠 V클래스 7인승 하나로 1억2400만원](https://m.blog.naver.com/zova2/224476033176) · 2026-11-13
 - ["8주 다 채우고 냈는데.." 교통사고 8주룰 진단서 마감은 7주였다](https://m.blog.naver.com/zova2/224476053745) · 2026-11-13
