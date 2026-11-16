@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (378편)
+## 글 목록 (379편)
 
+- [90R배터리 델코 DF90R보다 아트라스 MF90R이 약할까?](https://m.blog.naver.com/zova2/224478101084) · 2026-11-15
 - [레이 카매트 1+2열 세트와 달리 레이 밴은 1열만 나온다](https://m.blog.naver.com/zova2/224477086592) · 2026-11-14
 - [아반떼 카매트 리뷰 97%가 4점 이상인데 되풀이된 불만 두 가지](https://m.blog.naver.com/zova2/224477090551) · 2026-11-14
 - [골든 스티어링 휠 신차 90개 중 기아·제네시스 1위만 4개](https://m.blog.naver.com/zova2/224477109175) · 2026-11-14
