@@ -5,9 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (384편)
+## 글 목록 (388편)
 
 - [카니발 스노우체인 상품명의 KA4·더뉴 표기 놓치면 다른 세대용](https://m.blog.naver.com/zova2/224479949626) · 2026-11-17
+- [AGM105 배터리, G80이면 연식 상관없이 들어갈까?](https://m.blog.naver.com/zova2/224479950848) · 2026-11-17
+- [스포티지 핸들커버 고를 때 왜 차종 이름보다 줄자가 필요할까](https://m.blog.naver.com/zova2/224479951962) · 2026-11-17
+- ["차 판 지가 언젠데.." 위택스에 5년간 남는 자동차세 환급금](https://m.blog.naver.com/zova2/224479958416) · 2026-11-17
+- [포터2 와이퍼 길이만 맞춰 샀다가 연결부에서 막히는 이유](https://m.blog.naver.com/zova2/224479966846) · 2026-11-17
 - [90R배터리 델코 DF90R보다 아트라스 MF90R이 약할까?](https://m.blog.naver.com/zova2/224478101084) · 2026-11-15
 - [[공지) 차 관리 노트 크리에이터샵을 열었습니다](https://m.blog.naver.com/zova2/224478124984) · 2026-11-15
 - [혼다 CR-V 하이브리드 판매 10배 늘더니.. 가솔린은 퇴장](https://m.blog.naver.com/zova2/224478138709) · 2026-11-15
