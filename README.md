@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (392편)
+## 글 목록 (393편)
 
+- [벤딕트 차량용 청소기, 33분 쓰자고 충전은 2.5시간 걸린다](https://m.blog.naver.com/zova2/224482390476) · 2026-11-18
 - [카니발 스노우체인 상품명의 KA4·더뉴 표기 놓치면 다른 세대용](https://m.blog.naver.com/zova2/224479949626) · 2026-11-17
 - [AGM105 배터리, G80이면 연식 상관없이 들어갈까?](https://m.blog.naver.com/zova2/224479950848) · 2026-11-17
 - [스포티지 핸들커버 고를 때 왜 차종 이름보다 줄자가 필요할까](https://m.blog.naver.com/zova2/224479951962) · 2026-11-17
