@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (407편)
+## 글 목록 (408편)
 
+- [테슬라 사이버캡 가격 4천만원, '이 구역' 밖으론 못 나간다](https://m.blog.naver.com/zova2/224486225420) · 2026-11-21
 - [불스파워 엔진코팅제 '풀러렌 3배' 문구는 뭐랑 견준 숫자일까](https://m.blog.naver.com/zova2/224485098104) · 2026-11-20
 - ["한 해 차이에 1,870만원" G90 중고 세대가 바뀌는 해](https://m.blog.naver.com/zova2/224485102421) · 2026-11-20
 - [벤딕트 핸들커버 공용사이즈라도 핸들 모양 세 가지는 맞춰야 한다](https://m.blog.naver.com/zova2/224485121482) · 2026-11-20
