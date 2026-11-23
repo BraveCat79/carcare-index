@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (411편)
+## 글 목록 (412편)
 
+- [제네시스 키케이스 하나로 G80·GV80·GV70 키 다 맞을까](https://m.blog.naver.com/zova2/224487275000) · 2026-11-22
 - [테슬라 사이버캡 가격 4천만원, '이 구역' 밖으론 못 나간다](https://m.blog.naver.com/zova2/224486225420) · 2026-11-21
 - [2027 코나 스포티지 신형, 풀체인지는 코나가 먼저 상반기](https://m.blog.naver.com/zova2/224486232594) · 2026-11-21
 - [싼타페 원격주차 옵션, 출고 때 뺐다면 순정으로 다는 조건](https://m.blog.naver.com/zova2/224486251454) · 2026-11-21
