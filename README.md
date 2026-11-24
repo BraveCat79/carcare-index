@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (416편)
+## 글 목록 (417편)
 
+- [KGM 렉스턴 트림 구성 보면 4WD 205만원이 3열 39만원의 5배](https://m.blog.naver.com/zova2/224488800709) · 2026-11-23
 - [제네시스 키케이스 하나로 G80·GV80·GV70 키 다 맞을까](https://m.blog.naver.com/zova2/224487275000) · 2026-11-22
 - ['5W30' 넣는 아반떼 CN7 엔진오일 출장교환 설명서는 0W-20](https://m.blog.naver.com/zova2/224487280017) · 2026-11-22
 - [신형 X5 가격표 1억2000만원부터 1억3500만원까지.. 6개 트림](https://m.blog.naver.com/zova2/224487313245) · 2026-11-22
