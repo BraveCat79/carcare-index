@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (421편)
+## 글 목록 (422편)
 
+- [BMW 차키커버 4.95점 가죽 케이스, 보름 기다릴 만할까](https://m.blog.naver.com/zova2/224490329536) · 2026-11-24
 - [KGM 렉스턴 트림 구성 보면 4WD 205만원이 3열 39만원의 5배](https://m.blog.naver.com/zova2/224488800709) · 2026-11-23
 - ["과락도 없네" 지게차 운전기능사 필기 36문항이면 합격](https://m.blog.naver.com/zova2/224488806600) · 2026-11-23
 - [제네시스 G90 27인치 화면 대신 원형 계기판 3개 들어간다](https://m.blog.naver.com/zova2/224488832638) · 2026-11-23
