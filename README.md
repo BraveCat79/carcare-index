@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (429편)
+## 글 목록 (430편)
 
+- ["하이브리드라고 안 깎아 주네" 토레스 액티언 하이브리드 자동차세 27만3천 원](https://m.blog.naver.com/zova2/224493515528) · 2026-11-26
 - [벤딕트 차박매트 무상 A/S 1년은 '펌프'에만 걸린다](https://m.blog.naver.com/zova2/224491901908) · 2026-11-25
 - [현대차 투싼 첫날 계약, 중간 트림일까? 양 끝이 77%](https://m.blog.naver.com/zova2/224491910681) · 2026-11-25
 - ["FSD도 못 쓰는 차인데" 중국산 테슬라 무역적자 6조 원 키웠다](https://m.blog.naver.com/zova2/224491943447) · 2026-11-25
