@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova2
 - 글 목록 페이지: https://bravecat79.github.io/carcare-index/
 
-## 글 목록 (435편)
+## 글 목록 (436편)
 
+- [더클래스 안티포그 정체는 120ml 스프레이, 성에 제거는 표기에 없다](https://m.blog.naver.com/zova2/224494955668) · 2026-11-27
 - ["하이브리드라고 안 깎아 주네" 토레스 액티언 하이브리드 자동차세 27만3천 원](https://m.blog.naver.com/zova2/224493515528) · 2026-11-26
 - ["그랜저 막내보다 싸네" 쏘나타 가격표 맨 위 트림 4,112만 원](https://m.blog.naver.com/zova2/224493528908) · 2026-11-26
 - [렉서스 RX350h 가격 8,790만 원인데 연비는 NX보다 높다](https://m.blog.naver.com/zova2/224493550678) · 2026-11-26
